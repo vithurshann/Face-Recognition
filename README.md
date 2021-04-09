@@ -2,6 +2,11 @@
 
 Computer Vision: Face Recognition <br/>
 
+Developed computer vision system to detect and identify individuals using a database of known face images. Images comprise of individual and
+group pictures of the author’s classmates.
+
+<img src="TrainingApproach.png" width="790px" height="235px"/>
+
 Files in Repository:
 
 1. Report in PDF format 
