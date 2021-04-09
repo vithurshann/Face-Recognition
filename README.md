@@ -5,7 +5,7 @@ group pictures of the author’s classmates.
 
 <img src="approach.png" width="1020px" height="450px"/>
 
-Files in Repository:
+## Files in Repository:
 
 1. Report in PDF format 
 2. GetDataGreyscale.m - Script used to extract faces from images and videos for MLP and SVM classifiers 
@@ -15,7 +15,7 @@ Files in Repository:
 6. TrainAlexNet.m - Script used to train AlexNet model
 7. RecogniseFace.m - RecogniseFace function 
 
-Valid ways to call the RecogniseFace function:
+## Valid ways to call the RecogniseFace function:
 
 1. RecogniseFace('IMG_6853.JPG', 'HOG' ,'MLP',1)
 2. RecogniseFace('IMG_6853.JPG', 'SURF' ,'MLP',1)
