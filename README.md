@@ -1,11 +1,9 @@
 # Face-Recognition
 
-Computer Vision: Face Recognition <br/>
-
 Developed computer vision system to detect and identify individuals using a database of known face images. Images comprise of individual and
 group pictures of the author’s classmates.
 
-<img src="approach.png" width="1020px" height="350px"/>
+<img src="approach.png" width="1020px" height="450px"/>
 
 Files in Repository:
 
@@ -25,5 +23,5 @@ Valid ways to call the RecogniseFace function:
 4. RecogniseFace('IMG_6853.JPG', 'SURF' ,'SVM',1)
 5. RecogniseFace('IMG_6853.JPG', 'NONE' ,'AlexNet',1)
 
-- Replace the 1 with 0 to view the results without the creative mode
-- Replace the image file to test on different images
+Replace the 1 with 0 to view the results without the creative mode <br>
+Replace the image file to test on different images
